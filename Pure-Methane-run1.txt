@@ -1,0 +1,21 @@
+# Pure Methane at 318.2K, run 1
+# Taken from the article:
+#	"Adsorption of methane, nitrogen, carbon dioxide, 
+#	and their binary mixtures on dry activated carbon 
+#	at 318.2 K and pressures up to 13.6 MPa", Sudibandriyo et al.
+#	Langmuir Vol. 19 (2003), pp. 5323--5331.
+# P in kPa
+# Excess (Gibbs) Adsorption in mmol/g
+
+#P		N_ex
+550 	1.870
+1230	2.762
+2550	3.586
+3480	3.891
+4800	4.145
+6180	4.283
+7640	4.339
+9030	4.337
+10370	4.286
+11760	4.209
+13250	4.106
