@@ -2,7 +2,7 @@
 MPTA_Functions_Binary_Mixtures.py
 
 
-This file provide the functions used in the implementation of the MPTA for binary mixture.
+This file provide the functions used in the implementation of the MPTA for binary mixtures.
 
  Version: 1.0
  Last Update: 2018-mar-02
