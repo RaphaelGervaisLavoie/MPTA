@@ -1,0 +1,23 @@
+# Mixture 80% CH4, 20% CO2 (feeding composition) at 318.2K, run 1
+#
+# Taken from the article:
+#	"Adsorption of methane, nitrogen, carbon dioxide, 
+#	and their binary mixtures on dry activated carbon 
+#	at 318.2 K and pressures up to 13.6 MPa", Sudibandriyo et al.
+# Langmuir Vol. 19 (2003), pp. 5323--5331.
+#
+# P in kPa
+# Excess (Gibbs) Adsorption in mmol/g
+
+#P		CH4 mol fraction	N_ex_CH4	N_ex_CO2
+770		0.890				1.930		0.567
+1460	0.886				2.515		0.784
+2810	0.884				3.035		1.057
+4120	0.883				3.237		1.249
+5550	0.877				3.317		1.396
+6920	0.871				3.322		1.495
+8300	0.866				3.252		1.562
+9670	0.861				3.166		1.616
+11040	0.856				3.060		1.649
+12410	0.852				2.943		1.664
+
